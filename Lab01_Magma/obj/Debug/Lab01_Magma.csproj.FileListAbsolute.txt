@@ -1,0 +1,18 @@
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.exe.config
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.exe
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.pdb
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.csprojResolveAssemblyReference.cache
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.exe
+C:\Users\KaMiKaZa\Desktop\Лабы\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.exe.config
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\bin\Debug\Lab01_Magma.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab01_Magma\Lab01_Magma\obj\Debug\Lab01_Magma.csprojResolveAssemblyReference.cache
+C:\Лабы Крипта\Lab01_Magma\bin\Debug\Lab01_Magma.exe.config
+C:\Лабы Крипта\Lab01_Magma\bin\Debug\Lab01_Magma.exe
+C:\Лабы Крипта\Lab01_Magma\bin\Debug\Lab01_Magma.pdb
+C:\Лабы Крипта\Lab01_Magma\obj\Debug\Lab01_Magma.csprojResolveAssemblyReference.cache
+C:\Лабы Крипта\Lab01_Magma\obj\Debug\Lab01_Magma.exe
+C:\Лабы Крипта\Lab01_Magma\obj\Debug\Lab01_Magma.pdb
